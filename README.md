@@ -1,6 +1,12 @@
 # django_googledrive
 this is a project using the googledrive api with django implementation
 #README
+
+USER REQUIREMENTS:
+    User must have chrome installed
+    User must have chrome driver and provide the relevant path
+
+
 1)
 Get an API key from Google using this link: https://developers.google.com/maps/documentation/javascript/get-api-key
 2)
