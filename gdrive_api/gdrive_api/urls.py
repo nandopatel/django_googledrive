@@ -19,6 +19,7 @@ from main.views import *
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url('^$',index),
+    url('^pic_query',pic_query),
 
 ]
 
